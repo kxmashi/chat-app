@@ -1,5 +1,8 @@
 # Full Stack Real-Time Chat Application with Authentication Using React JS and Firebase
 
+Learning this project from the following YouTube tutorial:
+[Full Stack Real-Time Chat Application with Authentication Using React JS and Firebase](https://www.youtube.com/watch?v=gbocZlm71nE)
+
 This is a full-stack real-time chat application built using **React JS** and **Firebase**. It allows users to sign up, log in, and communicate with each other in real-time. The app uses Firebase for authentication, Firestore for real-time database management, and Firebase hosting for deployment.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,6 +13,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ---
+
 
 ## **Features**
 
