@@ -3,7 +3,9 @@ import './Chat.css'
 
 const chat = () => {
   return (
-    <div>chat</div>
+    <div>
+      We are on the chat page.
+    </div>
   )
 }
 
