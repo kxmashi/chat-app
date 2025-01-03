@@ -2,9 +2,7 @@ import React, { useState } from "react";
 import "./Login.css";
 import assets from "../../assets/assets";
 
-<<<<<<< HEAD
 const Login = () => {
->>>>>>> c1dbdcdbebce8d27bbb08030a8f2d7035659870d
   const [currState, setCurrState] = useState("Sign up");
 
   return (
