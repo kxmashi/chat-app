@@ -50,17 +50,15 @@ Currently, two official plugins are available:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/kxmashi/chat-app.git
 2. Navigate into the project directory:
    ```bash
    cd chat-app
 3. Install the required dependencies:
    ```bash
    npm install
-4. Add Firebase to your project by following the Firebase console setup to generate your Firebase configuration, then add it to the project in src/firebaseConfig.js.
-    ```bash
-    npm run dev
-5. Run the development server:
+   npm install react-router-dom react-toastify firebase
+4. Run the development server:
    ```bash
      npm run dev
 
